@@ -1,6 +1,7 @@
-Hello! My name is Angel vargas
-I want to know everything there is to know. 
-I am currently a student at The University of Texas Rio Grande Valley! #GoVaqueros
+- Hello! My name is Angel vargas
+- I want to know everything there is to know.
+- 
+- I am a student at The University of Texas Rio Grande Valley! #GoVaqueros
 - 📫 How to reach me: andresvargas674@gmail.com, or my student email angel.vargas05@utrgv.edu
 
 <!---
