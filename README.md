@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AngelAVargas04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+Hello! My name is Angel vargas
+I want to know everything there is to know. 
+I am currently a student at The University of Texas Rio Grande Valley! #GoVaqueros
 - 📫 How to reach me: andresvargas674@gmail.com, or my student email angel.vargas05@utrgv.edu
 
 <!---
