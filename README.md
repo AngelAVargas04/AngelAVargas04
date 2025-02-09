@@ -1,7 +1,4 @@
 - Hello! My name is Angel Andres Vargas
-- I am open to gaining experience in anything involving CS, whether it be software engineering, designing applications, AI integration, or
-- Back-end web development. I wish to broaden my knowledge.
-- I am a student at The University of Texas Rio Grande Valley! #GoVaqueros
 - 📫 How to reach me: andresvargas674@gmail.com, or my student email angel.vargas05@utrgv.edu
 
 <!---
